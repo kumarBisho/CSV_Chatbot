@@ -1,5 +1,5 @@
 # Gradio-based CSV Question Answering and Visualization Application  
-![Screenshot 2025-03-13 012600](https://github.com/user-attachments/assets/a0023c13-708a-4860-af89-db43486d6e6e)  
+![Screenshot 2025-03-13 012600](assets/Screenshot%202025-03-13%20175155.png)  
 
 ## Overview  
 This project is a **Gradio-based application** that enables users to **upload a CSV file, ask questions** (both textual and numerical) about its contents, and receive responses from a **local Large Language Model (LLM)**. Additionally, the application provides **graph plotting capabilities**, ensuring all visualizations are displayed directly within the Gradio interface.  
@@ -54,9 +54,10 @@ This project is a **Gradio-based application** that enables users to **upload a 
 - **Max File Size:** 25MB.  
 
 ## Working  
-![Screenshot 2025-03-13 012623](https://github.com/user-attachments/assets/e0df116f-dfc9-4f90-b0eb-eccf9d2793b3)  
+![Screenshot 2025-03-13 012600](assets/Screenshot%202025-03-13%20175325.png)
+![Screenshot 2025-03-13 012843](assets/Screenshot%202025-03-13%20175356.png)  
 
-![Screenshot 2025-03-13 012843](https://github.com/user-attachments/assets/f3336660-4bdb-4fbf-a89a-2193923821e1)  
+![Screenshot 2025-03-13 013104](assets/Screenshot%202025-03-13%20175431.png)
+![Screenshot 2025-03-13 013104](assets/Screenshot%202025-03-13%20175539.png)
 
-![Screenshot 2025-03-13 013104](https://github.com/user-attachments/assets/d33780b7-20df-42aa-83a3-7dc8f46af355)
 
