@@ -30,7 +30,7 @@ This project is a **Gradio-based application** that enables users to **upload a 
 ## Installation & Setup  
 1. **Clone the Repository:**  
    ```sh
-   git clone https://github.com/Adarsh1415/Gradio_based_CSV_Chatbot
+   git clone https://github.com/kumarBisho/CSV_Chatbot
    cd Gradio_based_CSV_Chatbot
    ```  
 2. **Install Dependencies:**  
