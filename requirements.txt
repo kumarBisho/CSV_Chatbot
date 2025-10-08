@@ -1,7 +1,6 @@
-python
+gradio
 pandas
 matplotlib
-gradio
 pydantic
-pydantic_ai
 ollama
+python-dotenv
